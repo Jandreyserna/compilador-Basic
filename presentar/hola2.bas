@@ -1,0 +1,8 @@
+10 REM USO DE COMANDO 'FOR'
+20 FOR I = 1 TO 10 STEP 2
+30 LET A = I
+40 NEXT I 
+50 LET B = "hola mundo"
+60 LET B = B + A
+70 LET C = 1 + 2
+80 END
